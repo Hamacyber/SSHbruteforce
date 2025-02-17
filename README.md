@@ -19,7 +19,7 @@ The developer holds no responsibility for any misuse.
 
 📌 How to Use
     
-    1️⃣ Download & Extract the files.
+    1️⃣ Download.
     2️⃣ Run SSHBruteForcer.exe (just double-click it).
     3️⃣ Enter the target SSH server's IP address.
     4️⃣ Select a username wordlist (.txt file).
